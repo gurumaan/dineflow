@@ -1,6 +1,6 @@
 # 🍽️ DineFlow 2.0 — Enterprise Hospitality Operating System & Real-Time KDS
 
-[![Live Demo](https://img.shields.io/badge/Live_Studio-Interactive_Hospitality_OS-d4af37?style=for-the-badge&logo=googlechrome&logoColor=black)](https://gurumaan.github.io/dineflow/)
+[![Live Demo](https://img.shields.io/badge/Live_Studio-Interactive_Hospitality_OS-d4af37?style=for-the-badge&logo=googlechrome&logoColor=black)](https://guru4code.online/dineflow/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-10b981?style=for-the-badge)](LICENSE)
 [![Zero Dependencies](https://img.shields.io/badge/Dependencies-Zero_Vanilla_ES6+-06b6d4?style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Web Audio Bell](https://img.shields.io/badge/Audio-Acoustic_Brass_Synthesizer-f59e0b?style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API)
